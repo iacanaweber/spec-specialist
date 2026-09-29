@@ -1,0 +1,7 @@
+# Keep it local only
+docs/
+
+# Python / test artifacts
+__pycache__/
+*.pyc
+tests/out/
